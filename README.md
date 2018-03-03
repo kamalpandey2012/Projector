@@ -1,53 +1,25 @@
-# projector README
-
-This is the README for your extension "projector". After writing up a brief description, we recommend including the following sections.
-
+# Projector README
+An open source vs code extension for Projecting Vs code workspace to multiple clients. Could be helpful for code academies
 ## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+1. Could Add file, Edit it and save it. 
+2. User could Delete files (WIP)
+3. User could Rename files (WIP)
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
 ## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-* Some new words 
-## Known Issues
-SOme unknown issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
+1. To run Projector, load the extension in vscode and then press `Cmd+\` on OSX or `Ctrl+` `shift + p` to open command options.
+2. Type `register` for projector to activate `Join` to join existing channel.
+3. Thats it you are good to go.
 
 ## Release Notes
-
-Users appreciate release notes as you update your extension.
+We are now in BETA mode. Working now on V1.0.0
 
 ### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
+Initial release of Projector
+1. Create, Edit and delete files across various clients.
+2. Could access code of different users
+3. Could write stories and store them on server
 -----------------------------------------------------------------------------------------------------------
 
 ## Working with Markdown
